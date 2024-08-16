@@ -1,6 +1,6 @@
 # Hey, I'm Sana👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sanasinghgmu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sanasinghgmu)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ssingh96@gmu.edu)
 
 ## 🎓 Education
