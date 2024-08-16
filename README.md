@@ -6,7 +6,7 @@
 ## 🎓 Education
 - **George Mason University** (August 2023 - May 2027)
   - B.S. in **Business Analytics**
-  - Concentration in **Information Technology**
+  - Minor in **Information Technology**
   - Deans List- Fall 2024, Spring 2024 
 
 ## 💻 Skills
